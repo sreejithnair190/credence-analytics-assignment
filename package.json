@@ -1,0 +1,28 @@
+{
+  "name": "credence-analytics-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "start-dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreejithnair190/credence-analytics-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sreejithnair190/credence-analytics-assignment/issues"
+  },
+  "homepage": "https://github.com/sreejithnair190/credence-analytics-assignment#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.1"
+  }
+}
